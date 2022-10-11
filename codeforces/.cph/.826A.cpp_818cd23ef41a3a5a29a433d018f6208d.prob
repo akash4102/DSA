@@ -1,0 +1,1 @@
+{"name":"Local: 826A","url":"d:\\DSA\\codeforces\\826A.cpp","tests":[{"id":1665499832246,"input":"6\nXXXS XS\nXXXL XL\nXL M\nXXL XXL\nXXXXXS M\nL M","output":"<\n>\n>\n=\n<\n>"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\codeforces\\826A.cpp","group":"local","local":true}

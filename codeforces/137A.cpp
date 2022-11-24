@@ -14,7 +14,7 @@ int main(){
         for(int i=k;i>0;i--){
             ans+=((i-1)*6);
         }
-        cout<<ans<<endl;
+//         cout<<ans<<endl;
     }
     return 0;
 }
